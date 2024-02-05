@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mostafa
 - 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning React
+- 🌱 Mern Stack
+- Data Analysis using python and R
 - 💞️ I’m looking to collaborate on Mern Stack projects
 - 📫 How to reach me @donvader77@gmail.com
 
